@@ -1,7 +1,6 @@
-package javaapplication3;
 import java.util.Arrays;
 import java.util.Scanner;
-public class JavaApplication3 {   
+public class sorting {   
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         
