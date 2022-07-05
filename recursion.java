@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class JavaApplication3 {   
+public class recursion {   
     public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
     System.out.print("Enter the first number : ");
