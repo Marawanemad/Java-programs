@@ -1,7 +1,5 @@
-package javaapplication3;
-import java.util.Arrays;
 import java.util.Scanner;
-public class JavaApplication3 {   
+public class Main {   
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Area area = new Area();
