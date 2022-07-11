@@ -1,5 +1,3 @@
-package javaapplication3;
-
 public class Area {
     private double length;
     private double width;
