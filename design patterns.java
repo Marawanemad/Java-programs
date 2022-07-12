@@ -1,3 +1,4 @@
+package design_pattens;
 import java.util.Scanner;
 public class design_patterns {
     public static void main(String[] args) {
