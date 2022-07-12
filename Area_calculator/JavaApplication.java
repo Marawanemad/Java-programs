@@ -1,7 +1,6 @@
-package javaapplication3;
-import java.util.Arrays;
+package Area_calcolator;
 import java.util.Scanner;
-public class JavaApplication3 {   
+public class Area_calcolator {   
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Area area = new Area();
